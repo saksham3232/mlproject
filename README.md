@@ -78,7 +78,6 @@ pip install -r requirements.txt
 ```bash
 python application.py
 ```
-The web app will be available at `http://localhost:5000`.
 
 ---
 
